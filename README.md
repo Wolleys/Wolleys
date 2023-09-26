@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @[Wolleys](https://github.com/Wolleys)
-- 👀 I’m interested in JavaScript [React • Node.js • Express • GraphQL • Next.js], TypeScript
+- 👀 I’m interested in JavaScript [Express.js • GraphQL • Node.js • Next.js • React.js], TypeScript
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/wolleys-migaya-94495970/)
